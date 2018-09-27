@@ -24,6 +24,6 @@ The program takes the text file to summarize and the number of sentences to incl
 python main.py 
 
 # Steps for execute the program
-cd spacy-summary ``` #navigate to root folder using conda terminal ```
-conda activate py27 ``` #if the current python version 2.7 in conda terminal, then ignore this step ```
-python main.py ``` #start the python server using flask and waiting for POST request ```
+cd spacy-summary ``` #navigate to root folder using conda terminal\n ```
+conda activate py27 ``` #if the current python version 2.7 in conda terminal, then ignore this step\n ```
+python main.py ``` #start the python server using flask and waiting for POST request\n ```
